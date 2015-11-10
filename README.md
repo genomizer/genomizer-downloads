@@ -6,11 +6,11 @@ Repository used by build bots for deployment.
 
  * **`genomizer-server` (master branch):**
   * [`genomizer-server` JAR](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-master/genomizer-server.jar).
-  * [`genomizer-server-resources.tar.xz` archive](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-master/genomizer-server-resources.jar).
+  * [`genomizer-server-resources.tar.xz` archive](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-master/genomizer-server-resources.tar.xz).
   * [`settings.cfg` file](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-master/settings.cfg).
  * **`genomizer-server` (develop branch):**
   * [`genomizer-server` JAR](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-develop/genomizer-server.jar).
-  * [`genomizer-server-resources.tar.xz` archive](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-develop/genomizer-server-resources.jar).
+  * [`genomizer-server-resources.tar.xz` archive](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-develop/genomizer-server-resources.tar.xz).
   * [`settings.cfg` file](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-develop/settings.cfg).
  * **Documentation:**
   * [Manual (PDF)](https://github.com/genomizer/genomizer-downloads/raw/documentation/genomizer-manual.pdf).
