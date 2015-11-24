@@ -6,10 +6,10 @@ Repository used by build bots for deployment.
 
  * **`genomizer-server` (master branch):**
   * [`genomizer-server` JAR](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-master/genomizer-server.jar).
-  * [`settings.cfg` file](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-master/settings.cfg).
+  * [`genomizer-server-tester` JAR](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-master/genomizer-server-tester.jar).
  * **`genomizer-server` (develop branch):**
   * [`genomizer-server` JAR](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-develop/genomizer-server.jar).
-  * [`settings.cfg` file](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-develop/settings.cfg).
+  * [`genomizer-server-tester` JAR](https://github.com/genomizer/genomizer-downloads/raw/genomizer-server-develop/genomizer-server-tester.jar).
  * **Resources (common for both branches):**
   * [`genomizer-server-resources.tar.xz` archive](https://github.com/genomizer/genomizer-downloads/releases/download/genomizer-server-resources/genomizer-server-resources.tar.xz).
  * **Documentation:**
